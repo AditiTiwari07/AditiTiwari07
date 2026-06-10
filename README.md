@@ -1,7 +1,7 @@
 # Hi, I'm Aditi Anil Tiwari 👋
 
 🎓 MSc Big Data Management & Analytics — Griffith College Dublin  
-🔍 Seeking Junior Data Analyst / BI Analyst roles in Ireland & Poland  
+🔍 Seeking Junior Data Analyst / BI Analyst roles in Ireland & Europe
 📍 Dublin, Ireland | 📧 aditisarla@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/adititiwarii)
